@@ -1,0 +1,20 @@
+# macOS system files
+.DS_Store
+.Trash/
+.zsh_history
+.zsh_sessions/
+
+# Application files
+.vscode/
+node_modules/
+.npm/
+.templateengine/
+.dotnet/
+.nuget/
+
+# Python environments
+__pycache__/
+.ipython/
+
+# Logs and temporary files
+*.log
