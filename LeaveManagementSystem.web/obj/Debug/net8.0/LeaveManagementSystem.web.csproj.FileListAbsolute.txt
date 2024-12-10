@@ -136,3 +136,4 @@
 /Users/adityaraj/Desktop/LeaveManagementSystem/LeaveManagementSystem.web/obj/Debug/net8.0/LeaveManagementSystem.web.pdb
 /Users/adityaraj/Desktop/LeaveManagementSystem/LeaveManagementSystem.web/obj/Debug/net8.0/LeaveManagementSystem.web.genruntimeconfig.cache
 /Users/adityaraj/Desktop/LeaveManagementSystem/LeaveManagementSystem.web/obj/Debug/net8.0/ref/LeaveManagementSystem.web.dll
+/Users/adityaraj/Desktop/LeaveManagementSystem/LeaveManagementSystem.web/obj/Debug/net8.0/LeaveManagementSystem.web.sourcelink.json
